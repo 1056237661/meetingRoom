@@ -1,0 +1,15 @@
+/*初始化样式*/
+	html{font-size:16px;}
+	body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select,img{margin:0;padding:0} 
+	body{font:12px"微软雅黑","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%;} 
+	a{color:#2d374b;text-decoration:none} 
+	a:hover{color:#002654;text-decoration:none;} 
+	li{list-style:none} 
+	img{border:0;vertical-align:middle} 
+	table{border-collapse:collapse;border-spacing:0} 
+	p{word-wrap:break-word}
+/*常用样式*/
+	.left{float: left;}
+	.right{float: right;}
+	.box_sizing{box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;}
+	
